@@ -31,22 +31,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-### 📊 Pointage Analytics Suite
-An internal Python + Streamlit app for processing and analyzing employee attendance data from Excel exports. Features automated reporting, anomaly detection, and team-level dashboards used by the operations and HR teams.
-
-`Python` · `Streamlit` · `OpenPyXL` · `Pandas`
-
----
-
-### 📄 COGEX PDF Tool
-A Streamlit-based document processing tool that splits and merges multi-page PDFs by 5-digit product codes extracted via coordinate-aware PDF parsing. Handles real-world document layout inconsistencies gracefully.
-
-`Python` · `Streamlit` · `pdfplumber` · `PyPDF`
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left">
@@ -58,8 +42,8 @@ A Streamlit-based document processing tool that splits and merges multi-page PDF
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alae-eddine/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alae.eddinee)
 
 ---
 
