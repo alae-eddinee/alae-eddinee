@@ -46,8 +46,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alae-eddinee&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alae-eddinee&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alae-eddinee&layout=compact&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
