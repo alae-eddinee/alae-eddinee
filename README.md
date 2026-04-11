@@ -47,7 +47,7 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alae-eddinee&layout=compact&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alae-eddinee&theme=default" height="150"/>
 </p>
 
 ---
