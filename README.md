@@ -1,85 +1,74 @@
-<div align="center">
-
-# Hi, I'm Alae-Eddine 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Analyst;Building+data+pipelines+%26+internal+tools;Turning+messy+spreadsheets+into+real+systems" alt="Typing SVG" />
-
-</div>
-
----
-
-### 🚀 What I build
-
-- 📊 **Data pipelines & automation** that turn manual reporting into scheduled, repeatable workflows
-- 🧰 **Internal tools** (dashboards, tracking apps, analysis scripts) tailored to real operational needs
-- 🗄️ **Backend services & databases** connecting live data sources to the tools people actually use
-- 📈 **Analytics** that translate raw operational data into decisions
-
----
-
-## 🔧 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alae-Eddine&fontSize=60&fontColor=3ECF8E&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%C2%B7%20Automation%20Builder%20%C2%B7%20Analyst&descSize=18&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
-**Languages**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=I+turn+messy+spreadsheets+into+real+systems;Pipelines+%E2%80%A2+Dashboards+%E2%80%A2+Internal+Tools;Automate+everything+that+runs+twice" alt="Typing SVG" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
 
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Backend & Databases**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-**Apps & Deployment**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=alae-eddinee&color=3ECF8E&style=flat-square&label=visitors)
+![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-3ECF8E?style=flat-square)
+![Based in](https://img.shields.io/badge/Based%20in-Morocco%20🇲🇦-c1272d?style=flat-square)
 
 </div>
 
----
+## ⚡ What I do
 
-## 📈 GitHub Stats
+```python
+class AlaeEddine:
+    role       = "Data Engineer & Analyst"
+    builds     = ["data pipelines", "internal tools", "automation bots", "dashboards"]
+    happiest   = "when a 3-hour manual report becomes a 3-second script"
+    currently  = "automating retail analytics end-to-end"
+```
+
+- 📊 **Pipelines & automation** — scheduled, repeatable workflows that replace manual reporting
+- 🧰 **Internal tools** — dashboards, trackers, and analysis apps shaped around real operations
+- 🗄️ **Backend & data services** — wiring live data sources into the tools people actually use
+- 🤖 **Browser & workflow automation** — Playwright, n8n, and scripts that never sleep
+
+## 🛠️ Arsenal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=default&hide_border=true" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alae-eddinee&theme=default" height="150"/>
+**Core**
 
-<img src="https://github-profile-trophy.vercel.app/?username=alae-eddinee&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" height="150"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,postgres,nextjs,fastapi&theme=dark" />
+
+**Data**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="36"/> <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" height="36"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="36"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="36"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="36"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="36"/>
+
+**Stack & Ops**
+
+<img src="https://skillicons.dev/icons?i=supabase,redis,docker,vercel,git,githubactions,vscode,notion&theme=dark" />
 
 </div>
 
----
-
-## 📬 Get in Touch
+## 📈 Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alae-eddine/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alae.eddinee)
+<img src="https://github-readme-stats.vercel.app/api?username=alae-eddinee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3ECF8E&icon_color=3ECF8E" height="165"/>
+<img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=tokyonight&hide_border=true&background=00000000&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E" height="165"/>
 
-<sub>Based in Morocco 🇲🇦 · Open to collaborations on data tooling & automation</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alae-eddinee&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3ECF8E" height="140"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alae-eddinee&theme=tokyo-night&hide_border=true&bg_color=00000000&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&area_color=3ECF8E" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=alae-eddinee&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="95%"/>
 
 </div>
+
+## 📬 Reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alae-eddine/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alae.eddinee)
+
+<sub>⚡ Open to collaborations on data tooling & automation</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
