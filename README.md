@@ -49,14 +49,15 @@ class AlaeEddine:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alae-eddinee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3ECF8E&icon_color=3ECF8E" height="165"/>
-<img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=tokyonight&hide_border=true&background=00000000&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alae-eddinee&theme=tokyonight" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alae-eddinee&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3ECF8E" height="140"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alae-eddinee&theme=tokyonight" height="200"/>
+<img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=tokyonight&hide_border=true&background=1a1b27&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E" height="200"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alae-eddinee&theme=tokyo-night&hide_border=true&bg_color=00000000&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&area_color=3ECF8E" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alae-eddinee&theme=tokyonight" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alae-eddinee&theme=tokyonight" height="200"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alae-eddinee&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alae-eddinee&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&area_color=3ECF8E" width="95%"/>
 
 </div>
 
