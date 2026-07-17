@@ -1,10 +1,25 @@
+<div align="center">
+
 # Hi, I'm Alae-Eddine 👋
 
-**Data Engineer & Analyst** · Building data pipelines, internal tools, and analytics solutions that power business decisions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Analyst;Building+data+pipelines+%26+internal+tools;Turning+messy+spreadsheets+into+real+systems" alt="Typing SVG" />
+
+</div>
+
+---
+
+### 🚀 What I build
+
+- 📊 **Data pipelines & automation** that turn manual reporting into scheduled, repeatable workflows
+- 🧰 **Internal tools** (dashboards, tracking apps, analysis scripts) tailored to real operational needs
+- 🗄️ **Backend services & databases** connecting live data sources to the tools people actually use
+- 📈 **Analytics** that translate raw operational data into decisions
 
 ---
 
 ## 🔧 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -41,22 +56,30 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+</div>
+
 ---
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alae-eddinee&theme=default" height="150"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alae-eddinee&theme=default&hide_border=true" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alae-eddinee&theme=default" height="150"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=alae-eddinee&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" height="150"/>
+
+</div>
 
 ---
 
 ## 📬 Get in Touch
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alae-eddine/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alae.eddinee)
 
----
-
 <sub>Based in Morocco 🇲🇦 · Open to collaborations on data tooling & automation</sub>
+
+</div>
